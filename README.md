@@ -1,6 +1,5 @@
 ## Hi there, Im' Juan David Nieto👋
 
-# Hi, I'm Juan David 👋
 ### Data Scientist | Machine Learning · Business Intelligence · Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juan--david--nieto-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-nieto-07850538a/)
