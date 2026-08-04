@@ -1,4 +1,4 @@
-## Hi there, Im' Juan David Nieto👋
+## Hi there, Im' Juan David Nieto
 
 ### Data Scientist | Machine Learning · Business Intelligence · Python
 
