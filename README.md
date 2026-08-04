@@ -11,10 +11,10 @@ About me / Sobre mí
 
 Data scientist focused on machine learning and data analysis. I work with real datasets — cleaning, modeling, evaluating and communicating results.
 
-- 🤖 ML models: classification, regression and ensemble methods
-- 📊 EDA and data visualization
-- 🚀 Model deployment with Gradio
-- 📍 Colombia · Open to remote opportunities
+-  ML models: classification, regression and ensemble methods
+-  EDA and data visualization
+-  Model deployment with Gradio
+-  Colombia · Open to remote opportunities
 
 
 **Languages & Libraries**
